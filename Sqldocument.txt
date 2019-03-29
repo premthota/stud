@@ -1,0 +1,10 @@
+host = "localhost"
+username= "root"
+password=""
+db="registration" for teachers registration and login
+db="register" for students operations
+
+->create two db's registration and register 
+ 1.  Where "registration" db has table "users" created with id (primary key, int, auto_inc1), username (Varchar(100)), email , password ; fields
+ 2. Where "register" db has table "users" created with id (primary key, int, auto_inc1), Studentname (Varchar(100)), DOB , password , Gender, lang, batch; fields
+ 3. You can create the above tables directly or by running the sql code 

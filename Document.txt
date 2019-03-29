@@ -1,0 +1,5 @@
+Documentation under which directory to save the files
+1. Create a folder in "www" directory of "wamp" Folder and name it "registration"
+2. Unzip the zip file of RegistrationFiles  and save it in the "registration" folder
+3. Create a folder "Student" in "registration" directory
+4. Unzip the zip file of StudentFiles  and save it in the "Student" folder
